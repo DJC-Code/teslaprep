@@ -1,29 +1,16 @@
-| Service                     | Cost                              | Due |
-| --------------------------- | --------------------------------- | --- |
-| Car Insurance               | $135.26 (Getting Quote for tesla) | 5/14/24 |
-| Health Insurance            | $138.78                           | 5/25/24 |
-| Phone                       | $80.00                            | 5/16/24 |
-| Rent                        | $300.00                           | 5/16/24 |
-| Netflix                     | $16.75                            | 5/11/24 |
-| Youtube Music               | $10.99                            | 5/15/24 |
-
-| Total: | $ 681.78 |
-| ------ | ------ |
-
-### ------------------------------------------------------------------
-
-| Service                     | Cost                              | Due |
-| --------------------------- | --------------------------------- | --- |
-| Tesla Premium Connectivity  | $10.00                            | ?   |
-| Car Insurance               | $430.41 (Quote for tesla)         | 5/14/24 |
-| Health Insurance            | $138.78                           | 5/25/24 |
-| Phone                       | $80.00                            | 5/16/24 |
-| Rent                        | $300.00                           | 5/16/24 |
-| Netflix                     | $16.75                            | 5/11/24 |
-| Youtube Music               | $10.99                            | 5/15/24 |
-
-| Total: | $986.93 |
-| ------ | ------- |
+| Insurance Company | Monthly Cost | Total  | Notes |
+| ----------------- | ------------ | -------| ----- | 
+| Safeco            | $430.00      | $5,165 | Just Tesla is ~$3,600/Year
+| Progressive       | $ ???        | $ ???  | 
+| Hanover           | $ ???        | $ ???  | 
 
 
-[]
+
+
+Discounts:
+
+    Safeco:
+
+    Progressive:
+
+    Hanover:
