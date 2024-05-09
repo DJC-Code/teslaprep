@@ -4,11 +4,10 @@ If you find this guide helpful, I'd appreciate you [using my referral link](http
 This is a guide for buying, taking delivery of, and owning a Tesla Model 3 or Model Y.
 
 Just looking for a delivery checklist?
--  Check the [mobile app for iOS and Android](https://teslaprep.glideapp.io).
--  Or jump to the text files:
-    - [Model 3 - 2017-2023](model_3_checklist.md)
-    - [Model 3 - 2024+](model_3_highland_checklist.md)
-    - [Model Y - 2019-2023](model_y_checklist.md)
+-  Jump to the text files:
+    - [Model 3 - 2017-2023](Checklists/model_3_checklist.md)
+    - [Model 3 - 2024+](Checklists/model_3_highland_checklist.md)
+    - [Model Y - 2019-2023](Checklists/model_y_checklist.md)
 
 |Navigation|
 |-----------------|
@@ -25,7 +24,7 @@ Just looking for a delivery checklist?
 |[Appendix](#appendix) |
 
 
-## Configuration complete
+# Configuration complete
 Congratulations! You've configured your Tesla. Now comes the hardest part: waiting.
 
 You'll receive an email from Tesla saying something to the effect of "We'll be in touch!" Do not get financing quotes at this time. Quotes expire after 30 days, at which time you will need to rerun the credit check, which may lower your score.
@@ -33,7 +32,7 @@ You'll receive an email from Tesla saying something to the effect of "We'll be i
 Depending on your financing choice during configuration, you'll see an "Edit Design" button on your account page all the way up until your vehicle starts being built (this can be in as little as 7 days before taking delivery). If you elected to use the "Cash" option for financing, your "Edit Design" button will disappear immediately, but it is still accessible by visiting `https://www.tesla.com/teslaaccount/edit-design/RNXXXXXXX`. Use this link to (relatively) officially check the status of your order up to 7 days before your delivery date.
 
 
-## First contact
+# First contact
 You will eventually be contacted by a Tesla Delivery Advisor/Scheduler who will confirm your delivery date. Make sure your Tesla account reflects this date.
 
 You'll want to get your home charging solution worked out at this point. There are many options depending on your needs:
@@ -49,7 +48,7 @@ Level 3 isn't really a home charging option; it's just here for comparison. If y
 Tesla has [a list of recommended installers](https://www.tesla.com/support/find-an-installer). Tesla partners with reputable local contractors to install the Wall Connector product in your home, but these contractors typically charge higher than average rates. Any experienced electrician should be able to do the work at a much lower price; it's a relatively simple job. You can also check [YouTube](https://www.youtube.com/watch?v=UMKiwyWikNs) to do a DIY installation.
 
 
-## 30 days before your delivery date
+# 30 days before your delivery date
 Now is the time to get financing quotes from credit unions, banks, etc. Whatever quotes you get, if your credit history is excellent, use [Lightstream](https://www.lightstream.com/) to get an unsecured cash loan. They will beat any approved rate you send them.
 
 Ensure you have the routing/account number of the account(s) you will be transferring funds from on delivery day (especially important on weekends when banks are closed).
@@ -57,11 +56,11 @@ Ensure you have the routing/account number of the account(s) you will be transfe
 You may also want to order your [accessories](https://shop.tesla.com/category/vehicle-accessories) now, as they are often sold out. Yes, it'll feel weird to have all weather floor mats with no vehicle, but it'll be worth it in the end. Not sure what to get? See the "Must-Have Accessories" section in the appendix.
 
 
-## 10 days before your delivery date
+# 10 days before your delivery date
 Your "Edit Design" button and/or back-door link should stop working and you should finalize your financeer at this time. If the link still works, your delivery date is probably going to be delayed.
 
 
-## 7 days before your delivery date
+# 7 days before your delivery date
 Check your Tesla account for an assigned Vehicle Identification Number (VIN) and Motor Vehicle Purchase Agreement (MVPA). If they are not showing up, the back-door method is to try buying a [Tesla Wall Connector](https://shop.tesla.com/product/wall-connector). When you're checking out, if it says "No VIN assigned," you truly do not have a VIN. Your delivery date is probably going to be delayed.
 
 If you have a VIN assigned, call your insurance to schedule the coverage date for your delivery day.
@@ -69,7 +68,7 @@ If you have a VIN assigned, call your insurance to schedule the coverage date fo
 Some states require a vehicle inspection be completed at a state certified inspection facility, after you take ownership of the car. Rules vary by state, but if you have previously owned cars in the state you live in, the process should be the same as you have always known. If you recently moved to a new state, this is something you want to make sure you look into.
 
 
-## Anytime before delivery day
+# Anytime before delivery day
 1.  Watch [Model 3](https://www.tesla.com/support/model-3-videos) or [Model Y](https://www.tesla.com/support/model-y-videos) walkthrough videos. These are great at getting you started with the basics and will speed up your handover process.
 2.  Review the information supplied on the [Tesla Support pages](https://www.tesla.com/support), these pages go over details on financing, trade-ins, vehicle registration, insurance, warranty, etc.
 3.  Attend a [Tesla owner orientation event](https://www.tesla.com/events). You will meet other owners and learn lots of handy tips about general ownership, driving and living with the car.
@@ -78,7 +77,7 @@ Some states require a vehicle inspection be completed at a state certified inspe
 6.  Join the unofficial [Tesla Motors Club forum](https://teslamotorsclub.com/), and [r/teslamotors](http://reddit.com/r/teslamotors) subreddit.
 
 
-## Delivery day
+# Delivery day
 ### Before heading to the Delivery Center:
 If you haven't had any contact with a Delivery Advisor/Scheduler since "First Contact," before you drive to pick your vehicle up, call the Tesla delivery location's direct number, and verify that your vehicle is indeed ready to go. There have been reports of people driving hours to pick up their Tesla only to be told their vehicle isn't even in production yet!
 
@@ -98,8 +97,9 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 # VEHICLE INSPECTION CHECKLIST
 Tesla's delivery folks typically give you just 10 to 15 minutes to inspect the vehicle before moving on to other deliveries, so it's advised to bring a checklist to inspect your new Tesla for any deal-breaking issues.
 
-- [Model 3 delivery checklist](model_3_checklist.md)
-- [Model Y delivery checklist](model_y_checklist.md)
+- [Model 3 Highland Delivery Checklist](model_3_highland_checklist.md)
+- [Model 3 Delivery Checklist](model_3_checklist.md)
+- [Model Y Delivery Checklist](model_y_checklist.md)
 
 ### Things to pay extra attention to
 After 1,000 new Tesla owners have completed delivery inspections using Tesla Prep, the most common issues are:
@@ -136,7 +136,7 @@ After 1,000 new Tesla owners have completed delivery inspections using Tesla Pre
 *Note: Pointing these out before you leave is important but if you only notice something days later, don't worry. Tesla has a reputation of rectifying these issues either immediately or on your next visit to the service center. If you have a vehicle you're not happy taking away that day, you have every right to decline the handover until the problems are fixed.*
 
 ### Before driving away, ask a Tesla rep:
-1.  [How to charge](https://www.youtube.com/watch?v=5bDGjIxmyNo) / [work a supercharger](https://www.youtube.com/watch?v=srLjNqo7r20) / open the charge flap.
+1.  [How to charge](https://www.youtube.com/watch?v=5bDGjIxmyNo) / [work a supercharger](https://www.youtube.com/watch?v=srLjNqo7r20) / open the charge port.
 2.  Make sure the correct [closing technique for frunk is demonstrated](https://www.youtube.com/watch?v=SY8qpdawx5U).
 3.  [Autopilot](https://www.youtube.com/watch?v=4CLjUHTatYk) usage.
 4.  [How to find superchargers](http://plugshare.com/) / other chargers.
