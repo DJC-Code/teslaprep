@@ -17,5 +17,5 @@
     Full Coverage on Tesla Model 3
     $1,754 /6 Months if paid in full for both Kia and Tesla Model 3 (Discount for paying in full for 6 month premium)
     $1,845 /6 Months if paid on installments for both Kia and Tesla Model 3
-    Kia - 431/6 Months
+    Kia - 431 /6 Months
     Tesla - 1313 /6 Months
