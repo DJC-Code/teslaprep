@@ -63,7 +63,7 @@ Your "Edit Design" button and/or back-door link should stop working and you shou
 # 7 days before your delivery date
 Check your Tesla account for an assigned Vehicle Identification Number (VIN) and Motor Vehicle Purchase Agreement (MVPA). If they are not showing up, the back-door method is to try buying a [Tesla Wall Connector](https://shop.tesla.com/product/wall-connector). When you're checking out, if it says "No VIN assigned," you truly do not have a VIN. Your delivery date is probably going to be delayed.
 
-If you have a VIN assigned, call your insurance to schedule the coverage date for your delivery day.
+**If you have a VIN assigned, call your insurance to schedule the coverage date for your delivery day.**
 
 Some states require a vehicle inspection be completed at a state certified inspection facility, after you take ownership of the car. Rules vary by state, but if you have previously owned cars in the state you live in, the process should be the same as you have always known. If you recently moved to a new state, this is something you want to make sure you look into.
 
